@@ -5,7 +5,7 @@ Steps to Run the Project
 /////////////////Clone the Repository/////////////////
 
 
-git clone <your-github-repository-url>
+git clone https://github.com/cdileep23/crm
 cd <project-folder>
 
 
