@@ -6,6 +6,8 @@ Steps to Run the Project
 
 
 git clone https://github.com/cdileep23/crm
+
+
 cd <project-folder>
 
 
@@ -13,16 +15,33 @@ cd <project-folder>
 
 
 cd server
+
+
+
 npm install
+
+
+
 npm run dev
+
+
 Your server will be running at http://localhost:9090.
 
 //////////////Frontend Setup///////////////
 
 cd ..
+
+
+
 cd client
+
+
 npm install
+
+
 npm run dev
+
+
 Your frontend will be running, and it should automatically open in your default browser.
 
 
