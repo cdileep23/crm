@@ -8,7 +8,7 @@ Steps to Run the Project
 git clone https://github.com/cdileep23/crm
 
 
-cd <project-folder>
+cd crm
 
 
 ////////////////Backend Setup//////////////////////////
